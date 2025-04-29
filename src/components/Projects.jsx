@@ -11,13 +11,7 @@ const Projects = () => {
       github: "https://github.com/Abhinav0243/Fitness",
       external: "https://gym-one-self.vercel.app/",
     },
-    {
-      title: "Grocery E-commerce",
-      description: "An online grocery shopping platform with product catalog, cart functionality, and seamless checkout process.",
-      tech: ["React", "Next.js", "CSS", "E-commerce"],
-      github: "https://github.com/Abhinav0243/Grocery-Rishab",
-      external: "https://grocery-rishab.vercel.app/",
-    },
+  
     {
       title: "E-commerce Platform",
       description: "A full-featured e-commerce website with product listings, shopping cart, and user-friendly interface.",
